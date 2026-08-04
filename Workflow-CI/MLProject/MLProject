@@ -1,5 +1,7 @@
-name: Household_Power_Prediction
+name: power_consumption_ml_project
+
 conda_env: conda.yaml
+
 entry_points:
   main:
     command: "python modelling.py"

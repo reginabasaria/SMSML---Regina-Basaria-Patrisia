@@ -1,1 +1,2 @@
-Masukkan tautan Docker Hub Anda di sini
+Tautan repositori Docker Hub:
+https://hub.docker.com/r/username_anda/nama_image
